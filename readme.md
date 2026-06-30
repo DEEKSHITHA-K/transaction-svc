@@ -377,6 +377,8 @@ Part of the **OpenAI-with-Java** learning project, which demonstrates how to int
 
 For more information, visit the parent project directory. [OpenAI-with-Java](https://github.com/DEEKSHITHA-K/OpenAI-with-java)
 
+For the Spring Boot microservice that bridges natural language with API calls using OpenAI's GPT models.[User Prmpt to API Service](https://github.com/DEEKSHITHA-K/user-prompt-to-api-svc)
+
 ---
 
 ## Support
@@ -385,4 +387,5 @@ For issues or questions, refer to the project documentation or Spring Boot offic
 - [Spring Boot Documentation](https://spring.io/projects/spring-boot)
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 - [H2 Database](https://www.h2database.com)
+
 
